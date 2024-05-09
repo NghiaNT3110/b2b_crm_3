@@ -1,2 +1,2 @@
-# mkt_analysis_3
-Data Source: https://github.com/nailson/ifood-data-business-analyst-test
+# b2b_crm_3
+Data Source and Challenges: https://mavenanalytics.io/challenges/maven-sales-challenge/31
