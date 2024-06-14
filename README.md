@@ -10,5 +10,7 @@ DA Document: [Document Link](https://docs.google.com/document/d/12pA4uumLo2RJO_4
 
 ===
 Dataset: The dataset has 4 tables (accounts, products, sales_pipeline, sales_teams)
+
 Tables Data Schema: [Data Schema Guide](https://docs.google.com/spreadsheets/d/1WViXjudkX2Ad_IS7_5tjg4_WKidVPE2x08UtdGxbX4M/edit?usp=sharing)
+
 Data Cleaning Process: Check SQL File
